@@ -1,6 +1,8 @@
 # SetGame
 Implementation of the card game 'Set'. Assignment 3 of the course CS193p (Developing Applications for iOS using SwiftUI), Stanford University. 
 
+# Rules
+Match 3 cards that have the same - Color or Shape or Shading(filled, partially filled, stroked).
 
 ## Skills used
 * Swift, SwiftUI
@@ -14,5 +16,6 @@ Implementation of the card game 'Set'. Assignment 3 of the course CS193p (Develo
 
 
 
-https://user-images.githubusercontent.com/80636783/144696427-887c694e-8bf5-4042-9413-b3091b497141.mp4
+
+https://user-images.githubusercontent.com/80636783/144696537-7caf0769-a127-48c4-abf9-fd6b6355718c.mp4
 
