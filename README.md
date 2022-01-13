@@ -10,12 +10,4 @@ Match 3 cards that have the same - Color or Shape or Shading(filled, partially f
 * Core Animations Framework (implicit + explicit)
 * Shape protocol
 
-## Screenshots
-
-<img width="234" alt="Screenshot 2021-11-06 at 10 52 46 AM" src="https://user-images.githubusercontent.com/80636783/144696362-a9ca8c59-9478-4e50-9b5c-eef4ecc0ac94.png">
-
-
-
-
-https://user-images.githubusercontent.com/80636783/144696537-7caf0769-a127-48c4-abf9-fd6b6355718c.mp4
-
+![WhatsApp-Video-2022-01-13-at-212](https://user-images.githubusercontent.com/80636783/149296100-bc299ba3-98df-401d-81b4-a8fcebb30a83.gif)
